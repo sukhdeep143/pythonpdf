@@ -15,3 +15,17 @@
 
 
 
+# message = int(input("Enter a message"))
+# print(message)
+
+# message = "Good morning"
+# name = input("Enter your name")
+
+# print(message, name)
+
+
+message = "Good morning"
+
+name = input("Enter you name")
+
+print(message, name)
