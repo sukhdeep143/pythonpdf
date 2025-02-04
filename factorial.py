@@ -28,3 +28,14 @@ def arithmetic_operation(a,b, operation):
 # result = arithmetic_operation(num1, num2, operation)
 
 # print(result)
+
+
+number_One = 10
+number_Two = 5
+
+temp = number_One
+number_One = number_Two
+number_Two = temp
+
+print(number_One)
+print(number_Two)
