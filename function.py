@@ -1,8 +1,4 @@
-# def add(a,b):
-#     return a+b
 
-
-# print(add(4,5))
 
 
 def sumType(a,b,what_you_want_todo):
@@ -23,3 +19,6 @@ opration_type = input("What type of opration you want to do: 'add', 'sub', 'dev'
 result = sumType(num1, num2, opration_type)
 
 print(result)
+
+
+
