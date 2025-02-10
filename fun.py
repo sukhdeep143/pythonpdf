@@ -1,12 +1,8 @@
-# def greet(name="Harman"):
-#     print("Hello "+ name +" Good morning!")
-    
-    
-# greet()
-y = 20  # Global variable
+x = 10
+def add(a = 10,b= 0):
+  
+  return a + b
 
-def show():
-    print(y)  # Accessing global variable inside a function
 
-show()
-  # Works fine outside the function
+add(b = 10)
+print(add(6,7))

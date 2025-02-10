@@ -19,5 +19,5 @@ while i < 10:
 # for i in range(1,10+1):
 #     print(i)
     
-for i in [0,1,3]:
-    pass
+for i in range(79):
+ print("hello")
