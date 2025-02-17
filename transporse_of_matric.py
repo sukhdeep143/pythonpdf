@@ -4,7 +4,7 @@ matric = [
         ]
 
 
-print("Befor chaning the values")
+print("Before changing the values")
 print(matric[0])
 print(matric[1])
 
