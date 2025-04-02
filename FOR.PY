@@ -11,10 +11,10 @@ message = [1,2,3,4,5,6,7]
 #     print(num1)
 #     num1, num2 = num2, num1 + num2
     
-n = int(input("Enter the number: "))
+# n = int(input("Enter the number: "))
 
-for i in range(n):
-    print(i * n)
+for i in range(1, 30, 2):
+    print(i )
     
 
     
